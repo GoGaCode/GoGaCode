@@ -1,6 +1,6 @@
 Hello World!
 
-Coding is so much fun. I look forward to buidling more cool stuffs.
+Coding is so much fun. I look forward to buidling more cool stuff.
 
 Links to my other online accounts:
 - [Linkedin](https://www.linkedin.com/in/gavinzyyang/)
