@@ -7,3 +7,4 @@ Links to my other online accounts:
 - [GoodReads](https://www.goodreads.com/gavinzyyang/)
 - [LeetCode China](https://leetcode.cn/u/vigilant-sahaxde/)
 - [LeetCode US](https://leetcode.com/yang_zhengyu/)
+- [Kattis (competitive programming)](https://open.kattis.com/users/beta-hat)
